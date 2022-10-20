@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\bin\Debug\Assignment-No7.exe.config
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\bin\Debug\Assignment-No7.exe
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\bin\Debug\Assignment-No7.pdb
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\obj\Debug\Assignment-No7.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\obj\Debug\Assignment-No7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\obj\Debug\Assignment-No7.exe
+C:\Users\HP\source\repos\Assignment-No7\Assignment-No7\obj\Debug\Assignment-No7.pdb
